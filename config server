@@ -1,0 +1,10 @@
+
+apt install vim net-tools tree ncdu bash-completion curl dnsutils htop iftop pwgen screen sudo wget nmon git
+
+
+# docker
+curl -fsSL https://test.docker.com -o test-docker.sh
+sudo sh test-docker.sh
+# docker-compose raspe
+sudo apt install python3-pip
+pip3 install docker-compose
