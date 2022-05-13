@@ -8,3 +8,6 @@ To proxmox
 Debian: apt-get install qemu-guest-agent
 
 TechHut
+
+
+# to delite folder /rm -Rf
